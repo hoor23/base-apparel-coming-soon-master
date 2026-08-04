@@ -42,8 +42,8 @@ This is a **"Coming Soon"** landing page for a fashion store, designed to notify
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/base-apparel-coming-soon-master.git](https://github.com/hoor23/base-apparel-coming-soon-master.git)
-- Live Site URL: [https://hoor23.github.io/base-apparel-coming-soon-master/](https://hoor23.github.io/base-apparel-coming-soon-master/)
+- Solution URL: [https://github.com/HooriaSaeeda/base-apparel-coming-soon-master.git](https://github.com/HooriaSaeeda/base-apparel-coming-soon-master.git)
+- Live Site URL: [https://hooriasaeeda.github.io/base-apparel-coming-soon-master/](https://hooriasaeeda.github.io/base-apparel-coming-soon-master/)
 
 ## My process
 
@@ -97,8 +97,8 @@ In future projects, I plan to:
 
 ## Author
 
-- Github - [hoor23](https://github.com/hoor23)
-- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
+- Github - [HooriaSaeeda](https://github.com/HooriaSaeeda)
+- Frontend Mentor - [HooriaSaeeda](https://www.frontendmentor.io/profile/HooriaSaeeda)
 - Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
 
 ## Acknowledgments
